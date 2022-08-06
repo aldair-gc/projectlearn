@@ -1,0 +1,5 @@
+<% javascript. Obrigatorio em todas as linhas %>
+<%= innerText %>
+<%- innerHTML %>
+<%# Comentario %>
+<%- include("path"); %>
